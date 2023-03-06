@@ -1,3 +1,5 @@
+
+* use of fragment*
 import React,{Component} from 'react';
 import "./App.css"
 class App extends Component{
@@ -22,16 +24,5 @@ class App extends Component{
         // return <h1>Hello! Geeky Shows</h1>;
     }
 }
-
-export default App;
 // let el=<h1>Hello! world</h1>
 // export default el;
-
-
-
-
-
-
-
-
-
