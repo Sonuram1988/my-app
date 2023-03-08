@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM  from 'react-dom';
 import "./App.css"
-import App2 from './App2'
+import el from './App4';
 
 
-ReactDOM.render(<App2/>,document.getElementById('root'));
+
+ReactDOM.render(el,document.getElementById('root'));
 
 
 

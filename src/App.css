@@ -1,3 +1,8 @@
 div{
     text-align: center;
 }
+
+.bg{
+    background-color: aquamarine;
+    color: rgb(43, 153, 226);
+}
